@@ -1,0 +1,9 @@
+# Generated QR codes and local working folders
+data/
+uploads/
+*.png
+
+# Built binary
+/qr-code-generator
+
+.DS_Store
